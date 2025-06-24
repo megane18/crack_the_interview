@@ -14,8 +14,8 @@
 <em>Built with the tools and technologies:</em>
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=Java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
+<!-- <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=Java&logoColor=white" alt="Java"> -->
+<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript"> -->
 
 ```
     ╔══════════════════════════════════════╗
@@ -59,8 +59,6 @@ Each problem typically includes:
 ### Languages Used
 I primarily solve problems in:
 - Python (for rapid prototyping and clarity)
-- Java (for OOP-heavy problems)
-- JavaScript (for web development roles)
 
 ## Getting Started
 
@@ -82,10 +80,6 @@ I primarily solve problems in:
 3. **Run the solutions:**
    ```bash
    python solution.py
-   # or
-   java Solution.java
-   # or
-   node solution.js
    ```
 
 ## My Practice Strategy
