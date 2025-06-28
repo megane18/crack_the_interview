@@ -33,9 +33,19 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
 </p>
 
-<!-- Animated coding activity -->
+<!-- Real GitHub Stats (automatically updates with your actual data) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megane18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=0080ff&text_color=ffffff&title_color=0080ff" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=megane18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=0080ff&text_color=ffffff&title_color=0080ff&include_all_commits=true&count_private=true" alt="Megane's GitHub Stats">
+</p>
+
+<!-- Language Usage Stats (your actual coding languages) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megane18&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0080ff" alt="Top Languages">
+</p>
+
+<!-- GitHub Streak Stats (your actual commit streak) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megane18&theme=radical&hide_border=true&background=0d1117&stroke=0080ff&ring=0080ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0080ff&sideLabels=0080ff&dates=ffffff" alt="GitHub Streak">
 </p>
 
 <!-- Creative ASCII animation -->
@@ -43,9 +53,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=500&height=200&lines=╔══════════════════════════════╗;║++💪++Interview+Prep+Journey++💪++║;║++┌────────────────────────────┐++║;║++│++🧩+Solving+problems...+++│++║;║++│++💡+Learning+patterns...++│++║;║++│++⚡+Building+speed...+++++│++║;║++│++🎯+Mastering+interviews..│++║;║++│++🤖+Testing+automatically│++║;║++│++✨+Continuous+improvement│++║;║++└────────────────────────────┘++║;╚══════════════════════════════╝" alt="Journey Animation">
 </p>
 
-<!-- Activity graph -->
+<!-- Real Activity Graph (your actual contribution pattern) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=megane18&bg_color=0d1117&color=0080ff&line=0080ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=megane18&bg_color=0d1117&color=0080ff&line=0080ff&point=ffffff&area=true&hide_border=true&custom_title=Megane's%20Contribution%20Graph" alt="Megane's Activity Graph">
+</p>
+
+<!-- GitHub Trophies (your actual achievements) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=megane18&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies">
 </p>
 
 </div>
@@ -270,9 +285,20 @@ These are my personal solutions developed during my learning process. They may n
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Keep+grinding!+💪;Keep+improving!+🚀;Code+•+Test+•+Repeat+🔄" alt="Motivational Footer">
 </p>
 
-<!-- Contribution stats -->
+<!-- Contribution stats (your actual GitHub profile summary) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=megane18&theme=radical" alt="Contribution Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=megane18&theme=radical" alt="Megane's Contribution Details">
+</p>
+
+<!-- Additional Profile Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=megane18&theme=radical" alt="Repos Per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=megane18&theme=radical" alt="Most Commit Language">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=megane18&theme=radical" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=megane18&theme=radical&utc_offset=8" alt="Productive Time">
 </p>
 
 <div align="left"><a href="#top">⬆ Return</a></div>
