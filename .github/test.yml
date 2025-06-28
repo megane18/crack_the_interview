@@ -1,0 +1,58 @@
+# .github/workflows/test.yml
+name: Test Solutions
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pytest pytest-cov
+    
+    - name: Run tests
+      run: |
+        pytest tests/ -v --cov=. --cov-report=term-missing
+    
+    - name: Upload coverage to GitHub
+      run: |
+        echo "Coverage report generated"
+
+  lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install linting tools
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 black
+    
+    - name: Run linting
+      run: |
+        # Check code formatting
+        black --check --diff .
+        # Check code style (relaxed rules for interview problems)
+        flake8 . --max-line-length=88 --ignore=E203,W503
