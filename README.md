@@ -34,9 +34,9 @@
 </p>
 
 <!-- Real GitHub Stats (automatically updates with your actual data) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=megane18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=0080ff&text_color=ffffff&title_color=0080ff&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Megane's GitHub Stats">
-</p>
+</p> -->
 
 <!-- Alternative GitHub Stats (in case the main one doesn't load) -->
 <p align="center">
@@ -44,9 +44,9 @@
 </p>
 
 <!-- Enhanced Stats with More Details -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=megane18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=0080ff&text_color=ffffff&title_color=0080ff&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed GitHub Stats">
-</p>
+</p> -->
 
 <!-- Language Usage Stats (your actual coding languages) -->
 <p align="center">
@@ -306,7 +306,7 @@ These are my personal solutions developed during my learning process. They may n
 </p>
 
 <!-- Additional Profile Cards -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=megane18&theme=radical" alt="Repos Per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=megane18&theme=radical" alt="Most Commit Language">
 </p>
@@ -314,6 +314,6 @@ These are my personal solutions developed during my learning process. They may n
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=megane18&theme=radical" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=megane18&theme=radical&utc_offset=8" alt="Productive Time">
-</p>
+</p> -->
 
 <div align="left"><a href="#top">⬆ Return</a></div>
