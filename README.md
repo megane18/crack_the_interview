@@ -35,12 +35,27 @@
 
 <!-- Real GitHub Stats (automatically updates with your actual data) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megane18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=0080ff&text_color=ffffff&title_color=0080ff&include_all_commits=true&count_private=true" alt="Megane's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=megane18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=0080ff&text_color=ffffff&title_color=0080ff&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Megane's GitHub Stats">
+</p>
+
+<!-- Alternative GitHub Stats (in case the main one doesn't load) -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=megane18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=0080ff&text_color=ffffff&title_color=0080ff&include_all_commits=true&count_private=true" alt="Megane's GitHub Stats (Alternative)">
+</p>
+
+<!-- Enhanced Stats with More Details -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=megane18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=0080ff&text_color=ffffff&title_color=0080ff&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed GitHub Stats">
 </p>
 
 <!-- Language Usage Stats (your actual coding languages) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megane18&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0080ff" alt="Top Languages">
+</p>
+
+<!-- Real Contribution Numbers -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0080FF&center=true&vCenter=true&width=600&lines=📈+2024%3A+377+Contributions+🔥;📊+2025%3A+299+Contributions+(So+Far!);🚀+Total%3A+676%2B+Contributions+and+Growing!" alt="Real Contribution Stats">
 </p>
 
 <!-- GitHub Streak Stats (your actual commit streak) -->
