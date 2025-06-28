@@ -7,7 +7,7 @@ def one_away(s, t):
     x = len(s)
     y = len(t)
 
-    while pointer_s < len(s) and pointer_t < len(t):
+    while pointer_s < x and pointer_t < y:
 
         if s[pointer_s] == t[pointer_t]:
             # sameChar +=1
