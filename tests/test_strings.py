@@ -74,12 +74,18 @@ class TestStringProblems:
         assert one_away("", "") == True  # Same
         assert one_away("abc", "def") == False  # All different
 
-
-# tests/test_dsa.py (keeping your existing structure)
-class TestDSAProblems:
-
-    def test_example_dsa_problem(self):
-        """Template for DSA problem tests"""
-        # from dsa.some_problem import solution
-        # assert solution(input_data) == expected_result
-        pass
+    def test_string_compression(self):
+        """Test stringCompression.py - Compress strings using character counts"""
+        from strings.stringCompression import string_compress
+        
+        # Test cases
+        assert string_compress("aabcccccaaa") == "a2b1c5a3"  # Should compress
+        assert string_compress("abcdef") == "abcdef"  # Should not compress (longer)
+        assert string_compress("aabbcc") == "aabbcc"  # Should not compress (same length)
+        assert string_compress("aaa") == "a3"  # Should compress
+        assert string_compress("a") == "a"  # Single character
+        assert string_compress("") == ""  # Empty string
+        assert string_compress("aaabbbbcccc") == "a3b4c4"  # Should compress
+        assert string_compress("abcd") == "abcd"  # All different, should not compress
+        assert string_compress("aaaa") == "a4"  # Should compress
+        assert string_compress("aabbccdd") == "aabbccdd"  # Should not compress (same length)
